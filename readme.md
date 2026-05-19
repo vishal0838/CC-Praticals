@@ -1,4 +1,4 @@
-****************CC Computing viva questions based on the syllabus: =*********************
+****************CC and AI Computing viva questions based on the syllabus: =*********************
 
 Here is a comprehensive set of 20 short, precise questions and answers designed specifically for your Cloud Computing viva exam. They cover key concepts, architectures, security, and advanced topics directly from your syllabus to help you answer confidently.
 
@@ -112,7 +112,7 @@ Here is a **laser-focused, one-sentence version** of each answer. This is exactl
 
 
 
-Ai viva questions based on the syllabus:
+***************Ai viva questions based on the syllabus:**********************
 
 Here is a **laser-focused, one-sentence version** of each answer. This is exactly how you should answer in a viva to show the external examiner you know the core concept without beating around the bush.
 

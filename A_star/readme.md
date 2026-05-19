@@ -1,3 +1,7 @@
+
+Title : 
+Implement A star Algorithm for any game search problem.
+
 # A* (A Star) Algorithm for Path Finding
 
 ## What is A* Algorithm?
