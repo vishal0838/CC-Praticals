@@ -79,63 +79,7 @@ Here is a comprehensive set of 20 short, precise questions and answers designed 
 ### **💡 Quick Viva Tips:**
 
 * Keep your answers **concise**. Examiners love keywords (e.g., "abstracting physical hardware" for Virtualization, "on-demand" for Cloud).
-* If asked about case studies, remember **IBM** for Unit I architectures, **Xen/VMware** for Virtualization types, and **Acunetix** for security tools.
-
-
-Ai viva questions based on the syllabus: 
-Here is a **laser-focused, one-sentence version** of each answer. This is exactly how you should answer in a viva to show the external examiner you know the core concept without beating around the bush.
-
----
-
-### **Unit I: Introduction & Intelligent Agents**
-
-* **Q1: Difference between a rational agent and a human?**
-A rational agent always acts to maximize its expected performance measure based on logic, whereas a human's actions can be influenced by emotions, biases, and imperfect reasoning.
-* **Q2: What is PEAS?**
-PEAS stands for Performance measure, Environment, Actuators, and Sensors; it is a framework used to completely define an intelligent agent's specification.
-* **Q3: Fully vs. Partially Observable Environment?**
-In a fully observable environment, the agent's sensors have access to the complete state of the world at any point, while in partially observable environments, some data is missing or hidden.
-
----
-
-### **Unit II: Problem-Solving & Search**
-
-* **Q4: What is a heuristic function?**
-A heuristic function, $h(n)$, estimates the cost from the current node to the goal state, helping informed search algorithms find solutions much faster.
-* **Q5: What is an admissible heuristic?**
-A heuristic is admissible if it never overestimates the actual cost to reach the goal state (it is always optimistic).
-* **Q6: Uninformed vs. Informed Search?**
-Uninformed search explores the state space systematically without any domain knowledge, whereas informed search uses a heuristic to guide the search toward the goal.
-
----
-
-### **Unit III: Adversarial Search and Games**
-
-* **Q7: What is the Minimax strategy?**
-Minimax is a decision-making algorithm for two-player games where one player tries to maximize their score while assuming the opponent will perfectly play to minimize it.
-* **Q8: What is Alpha-Beta Pruning?**
-It is an optimization technique for Minimax that cuts off branches in the game tree that do not affect the final decision, drastically reducing search time.
-* **Q9: What is a Constraint Satisfaction Problem (CSP)?**
-A CSP is a problem where the goal is to find a set of values for variables that satisfy a predefined set of conditions or limitations (constraints).
-
----
-
-### **Unit IV: Knowledge and Logic**
-
-* **Q10: What is a Knowledge-Based Agent?**
-It is an agent that makes decisions by maintaining an internal database of facts and rules (Knowledge Base) and using logical inference to deduce new actions.
-* **Q11: Propositional vs. First-Order Logic?**
-Propositional logic deals with simple, whole facts that are true or false, while First-Order Logic is more expressive, modeling the world using objects, relations, and quantifiers ($\forall, \exists$).
-* **Q12: Entailment ($\models$) vs. Inference ($\vdash$)?**
-Entailment means a sentence is semantically true in all worlds where the knowledge base is true, while inference is the syntactic process of deriving that sentence using formal rules.
-
----
-
-### **Unit V: Reasoning**
-
-* **Q13: Forward vs. Backward Chaining?**
-Forward chaining starts with known facts to derive new conclusions (data-driven), while backward chaining starts with a goal and works backward to see if supporting facts exist (goal-driven).
-* **Q14: What is Unification?**
+***Q14: What is Unification?**
 Unification is the algorithmic process of finding a variable substitution that makes two different first-order logic expressions identical.
 * **Q15: What is Ontological Engineering?**
 It is the process of creating a formal representation, structure, and vocabulary for the concepts and relationships within a specific domain of knowledge.
@@ -158,11 +102,17 @@ Progression planning searches forward from the initial state to the goal, wherea
 * **Q19: What does the "Wumpus World" demonstrate?**
 It is a standard grid-based environment used to evaluate how well a knowledge-based agent can safely navigate, reason, and deduce hidden dangers under uncertainty.
 * **Q20: Name three ethical concerns of AI.**
-The primary concerns are algorithmic bias, lack of transparency (the "black box" problem), and job displacement due to automation.
+The primary concerns are algorithmic bias, lack of transparency (the "black box" problem), and job displacement due to automation. If asked about case studies, remember **IBM** for Unit I architectures, **Xen/VMware** for Virtualization types, and **Acunetix** for security tools.
+
+
+Ai viva questions based on the syllabus: 
+Here is a **laser-focused, one-sentence version** of each answer. This is exactly how you should answer in a viva to show the external examiner you know the core concept without beating around the bush.
+
+---
 
 
 
-****************Ai viva questions based on the syllabus: =*********************
+Ai viva questions based on the syllabus:
 
 Here is a **laser-focused, one-sentence version** of each answer. This is exactly how you should answer in a viva to show the external examiner you know the core concept without beating around the bush.
 
